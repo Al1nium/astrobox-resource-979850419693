@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979850419693",
+    "restype": "watchface",
+    "name": "Black Souls",
+    "description": "可显示时间，日期，星期，心率，步数，电量的表盘。所有背景来自Black Souls原画",
+    "preview": [
+      "media/♡Love♡.png",
+      "media/1.png",
+      "media/2.png",
+      "media/3.png",
+      "media/47.png",
+      "media/65.png",
+      "media/80.png",
+      "media/86.png",
+      "media/88.png",
+      "media/97-1.png",
+      "media/117-3.png",
+      "media/ari.png",
+      "media/meiberu.png",
+      "media/Valentine2.png",
+      "media/忧郁哥特少女与染血兔偶.png",
+      "media/忧郁王座上的废墟少女.png",
+      "media/篝火前的疲惫骑士.png",
+      "media/Valentine3.png"
+    ],
+    "icon": "media/7aabf2fd9d0635906887e4bfe622529dc6966aef.png",
+    "cover": "media/BlackSouls-封面-3x2.jpg",
+    "author": [
+      {
+        "name": "py4cw9z4tm",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/Black Souls.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
