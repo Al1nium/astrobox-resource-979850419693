@@ -5,6 +5,7 @@
     "name": "Black Souls",
     "description": "可显示时间，日期，星期，心率，步数，电量的表盘。所有背景来自Black Souls原画",
     "preview": [
+      "media/BlackSouls-注意事项.png",
       "media/♡Love♡.png",
       "media/1.png",
       "media/2.png",
@@ -24,8 +25,8 @@
       "media/篝火前的疲惫骑士.png",
       "media/Valentine3.png"
     ],
-    "icon": "media/7aabf2fd9d0635906887e4bfe622529dc6966aef.png",
-    "cover": "media/BlackSouls-封面-3x2.jpg",
+    "icon": "media/BlackSouls-icon-500.png",
+    "cover": "media/BlackSouls-封面-1200.jpg",
     "author": [
       {
         "name": "py4cw9z4tm",
